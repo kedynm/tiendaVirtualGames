@@ -39,8 +39,12 @@ Descripción del proyecto
 La empresa local está interesada en desarrollar una página web que cumpla con las necesidades de venta y promoción de videojuegos, además que integre un sistema de pago electrónico y disponibilidad de envíos a todo el país.
  
 Especificaciones técnicas del proyecto:
-•	Catalogo amplio de video juegos
+
+•	Catalogo amplio de video juego
+
 •	sistema electrónico de pago
+
 •	carrito de compras
+
 •	sistema de manejo de usuarios
 
