@@ -1,16 +1,16 @@
-PROYECTO GAME PLACES
+# PROYECTO GAME PLACES
 
-PRESENTACION GENERAL
+## PRESENTACION GENERAL
 
 En este trabajo se plantean los aspectos para la creación de una página web de venta de video juegos, usando las características de una tienda virtual, como son carrito de compras, registro de perfiles de usuario, todo lo relacionado con los productos, reportes de ventas, reporte de usuarios etc.
 
-PLANTEAMIENTO DEL PROBLEMA
+## PLANTEAMIENTO DEL PROBLEMA
 
 En la actualidad el mercado de los videojuegos no para de crecer, muchas personas desean adquirir diferentes videojuegos sin tener que desplazarse. La microempresa de ventas de videojuegos está limitada a las ventas por mostrador, tampoco tiene un sistema que permita fidelizar a sus clientes por medio de ofertas especiales.
 
 En muchas ocasiones se generan confusiones con los videojuegos cuando son enviados a domicilio, por ejemplo, el cliente dice que ese no era el video juego que quería, por lo tanto, el domiciliario debe volver a la sede, cambiarlo y llevarlo nuevamente, este proceso anterior genera pérdidas.
 
-PROCESO ACTUAL
+## PROCESO ACTUAL
 
 En la actualidad la forma de adquirir un video juego se presenta de diferentes modalidades, algunas de ellas son las siguientes: 
 
@@ -18,7 +18,7 @@ En la actualidad la forma de adquirir un video juego se presenta de diferentes m
 
 •	Por medio de una llamada telefónica el cliente puede solicitar un videojuego para que se lo envíen a domicilio.
 
-JUSTIFICACION
+## JUSTIFICACION
 
 Con el presente proyecto se pretende ofrecer un aplicativo web que facilite la gestión de compras de videojuegos y así proporcionar una herramienta donde los clientes puedan acceder a la información de los productos, brindando un recurso de multimedia donde ellos podrán los diferentes tráileres de los videojuegos que desean antes de realizar la compra.
 
@@ -27,7 +27,7 @@ Adicionalmente se pretende que el negocio tenga un crecimiento principalmente co
 
 El presente proyecto busca la creación de una tienda virtual que nos sirva de plantilla para la creación de nuevos sitios web de ventas online como por ejemplo ventas de herramientas, calzado, accesorios entre otros.
 
-DESCRIPCION DE LA PROPUESTA 
+## DESCRIPCION DE LA PROPUESTA 
 
 Idea de proyecto 
 Página web para la implementación de una tienda virtual de videojuegos con sistema electrónico de pago.
