@@ -48,6 +48,12 @@ Especificaciones técnicas del proyecto:
 
 •	sistema de manejo de usuarios
 
+## DIAGRAMA DE CASOS DE USO DE ACCIONES DEL SISTEMA 
+
 ![casosUsoGame](https://user-images.githubusercontent.com/49279007/57081348-227f5d80-6cba-11e9-8314-a68f31b4539c.png)
+
+## DIAGRAMA DE CLASES
+
+![diagramaClase](https://user-images.githubusercontent.com/49279007/57081452-58bcdd00-6cba-11e9-9576-1f6bac2257e9.png)
 
 
