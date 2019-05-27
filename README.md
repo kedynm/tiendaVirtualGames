@@ -56,4 +56,10 @@ Especificaciones técnicas del proyecto:
 
 ![diagramaClase](https://user-images.githubusercontent.com/49279007/57081452-58bcdd00-6cba-11e9-9576-1f6bac2257e9.png)
 
+### Observaciones Entregable Uno.
+- Buen dominio del tema
+- Cumplen con el tablero de actividades
+- Se tuvieron en cuenta correcciones y actualizaron README.md
+#### Nota: 4,8
+
 
