@@ -6,6 +6,7 @@ export default class Productos extends React.Component
     {'nombre_producto':'ACE COMBAT 7 SKIES UNKNOWN','precio':'$199.900','imagen_url':'https://images-na.ssl-images-amazon.com/images/I/61pEQCBb%2BKL._SX342_.jpg'},
     {'nombre_producto':'ACE COMBAT 7 SKIES UNKNOWN','precio':'$199.900','imagen_url':'https://images-na.ssl-images-amazon.com/images/I/61pEQCBb%2BKL._SX342_.jpg'},
     {'nombre_producto':'ACE COMBAT 7 SKIES UNKNOWN','precio':'$199.900','imagen_url':'https://images-na.ssl-images-amazon.com/images/I/61pEQCBb%2BKL._SX342_.jpg'},
+    {'nombre_producto':'ACE COMBAT 7 SKIES UNKNOWN','precio':'$199.900','imagen_url':'https://images-na.ssl-images-amazon.com/images/I/61pEQCBb%2BKL._SX342_.jpg'},
     {'nombre_producto':'ACE COMBAT 7 SKIES UNKNOWN','precio':'$199.900','imagen_url':'https://images-na.ssl-images-amazon.com/images/I/61pEQCBb%2BKL._SX342_.jpg'}]
     render() {
         return (
