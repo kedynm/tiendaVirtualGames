@@ -1,18 +1,16 @@
 import React from 'react';
-
 import './App.css';
-import { Navbar } from 'react-bootstrap';
-import NavbarComponent from './NavbarComponent';
-import Carrusel from './Carrusel'
-import FooterComponent from './FooterComponent'
+import Saludo from './Saludo'
+import Footer from './Footer';
+import Productos from './Productos'
+
 
 function App() {
   return (
-    <div className="App">
-      
-      <NavbarComponent/>
-      <Carrusel/>
-      <FooterComponent/>
+    <div className="App container-fluid">
+       {/* <Saludo />*/}
+        <Productos/>
+       {/* <Footer/>*/}
     </div>
   );
 }
