@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# PROYECTO GAME PLACES
 
-## Available Scripts
+## PRESENTACION GENERAL
 
-In the project directory, you can run:
+En este trabajo se plantean los aspectos para la creación de una página web de venta de video juegos, usando las características de una tienda virtual, como son carrito de compras, registro de perfiles de usuario, todo lo relacionado con los productos, reportes de ventas, reporte de usuarios etc.
 
-### `npm start`
+## PLANTEAMIENTO DEL PROBLEMA
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+En la actualidad el mercado de los videojuegos no para de crecer, muchas personas desean adquirir diferentes videojuegos sin tener que desplazarse. La microempresa de ventas de videojuegos está limitada a las ventas por mostrador, tampoco tiene un sistema que permita fidelizar a sus clientes por medio de ofertas especiales.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+En muchas ocasiones se generan confusiones con los videojuegos cuando son enviados a domicilio, por ejemplo, el cliente dice que ese no era el video juego que quería, por lo tanto, el domiciliario debe volver a la sede, cambiarlo y llevarlo nuevamente, este proceso anterior genera pérdidas.
 
-### `npm test`
+## PROCESO ACTUAL
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+En la actualidad la forma de adquirir un video juego se presenta de diferentes modalidades, algunas de ellas son las siguientes: 
 
-### `npm run build`
+•	El cliente se dirige directamente a una de las sedes, piden su video juego, si está disponible, el vendedor le muestra el videojuego, luego el cliente puede ensayarla si desea y si le gusta, procede a realizar el pago, luego el vendedor procede a hacerle una factura manual pidiendo los datos básicos del cliente y se la entrega.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+•	Por medio de una llamada telefónica el cliente puede solicitar un videojuego para que se lo envíen a domicilio.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## JUSTIFICACION
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Con el presente proyecto se pretende ofrecer un aplicativo web que facilite la gestión de compras de videojuegos y así proporcionar una herramienta donde los clientes puedan acceder a la información de los productos, brindando un recurso de multimedia donde ellos podrán los diferentes tráileres de los videojuegos que desean antes de realizar la compra.
 
-### `npm run eject`
+La implementación de este proyecto les permitirá a los clientes conocer todos los detalles del producto que deseen, registrarse en el sitio web para obtener recomendaciones y promociones, además de eso podrán realizar la compra sin tener que salir de su hogar. 
+Adicionalmente se pretende que el negocio tenga un crecimiento principalmente con el incremento de las ventas y la obtención de nuevos clientes.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+El presente proyecto busca la creación de una tienda virtual que nos sirva de plantilla para la creación de nuevos sitios web de ventas online como por ejemplo ventas de herramientas, calzado, accesorios entre otros.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## DESCRIPCION DE LA PROPUESTA 
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Idea de proyecto 
+Página web para la implementación de una tienda virtual de videojuegos con sistema electrónico de pago.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Modelo de negocio 
+Nuestro modelo se basa en la venta directa de videojuegos multiplataforma al Detal y por mayor.
 
-## Learn More
+Descripción del proyecto
+La empresa local está interesada en desarrollar una página web que cumpla con las necesidades de venta y promoción de videojuegos, además que integre un sistema de pago electrónico y disponibilidad de envíos a todo el país.
+ 
+Especificaciones técnicas del proyecto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+•	Catalogo amplio de video juego
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+•	sistema electrónico de pago
 
-### Code Splitting
+•	carrito de compras
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+•	sistema de manejo de usuarios
 
-### Analyzing the Bundle Size
+## DIAGRAMA DE CASOS DE USO DE ACCIONES DEL SISTEMA 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+![casosUsoGame](https://user-images.githubusercontent.com/49279007/57081348-227f5d80-6cba-11e9-8314-a68f31b4539c.png)
 
-### Making a Progressive Web App
+## DIAGRAMA DE CLASES
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![diagramaClase](https://user-images.githubusercontent.com/49279007/57081452-58bcdd00-6cba-11e9-9576-1f6bac2257e9.png)
