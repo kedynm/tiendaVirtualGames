@@ -1,0 +1,14 @@
+.title{
+    padding-bottom: 30px;
+    
+}
+.caja{
+    padding: 20px;
+    width: auto;
+    height: auto;    
+    box-shadow: 3px 3px 10px gray;
+    align-items: center;
+    justify-content: center;
+    -moz-box-flex: 0;
+    
+}

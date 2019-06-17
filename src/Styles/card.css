@@ -1,0 +1,16 @@
+#card{
+    height: 400px;
+    width: 200px;
+    margin: 20px;
+}
+
+#imagenes{
+    display:block;
+    margin:auto;
+    height: 200px;;
+    width: 180px;
+}
+#precio{
+    color: blue;
+    text-align: center;
+}

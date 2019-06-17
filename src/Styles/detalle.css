@@ -1,0 +1,21 @@
+.pagar{
+    padding: 20px;
+    height: 50%;    
+    box-shadow: 3px 3px 10px gray;
+    text-align: center;
+    align-items: center;
+     justify-content: center;
+     -moz-box-flex: 0;
+
+}
+
+.tarjeta{
+    height: 50px;
+    width: 200px;
+    display:block;
+    margin:auto;
+}
+
+h2{
+    color: red;
+}
