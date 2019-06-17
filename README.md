@@ -58,3 +58,6 @@ Especificaciones técnicas del proyecto:
 
 ## MODELO ENTIDAD RELACION
 ![mer](https://user-images.githubusercontent.com/49279007/59578149-78526e00-908c-11e9-91ff-0844f064da64.PNG)
+
+## MODELO WIREFRAME EN MARVELAPP
+https://marvelapp.com/74ch147
