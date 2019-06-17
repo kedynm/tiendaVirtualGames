@@ -52,10 +52,6 @@ Especificaciones técnicas del proyecto:
 
 ![casosUsoGame](https://user-images.githubusercontent.com/49279007/57081348-227f5d80-6cba-11e9-8314-a68f31b4539c.png)
 
-## DIAGRAMA DE CLASES
-
-![diagramaClase](https://user-images.githubusercontent.com/49279007/57081452-58bcdd00-6cba-11e9-9576-1f6bac2257e9.png)
-
 ## DIAGRAMA DE CLASES 
 
 ![diagrama de clases](https://user-images.githubusercontent.com/49279007/59578134-6bce1580-908c-11e9-8179-839dbf3e7206.PNG)
