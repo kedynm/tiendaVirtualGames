@@ -56,6 +56,14 @@ Especificaciones técnicas del proyecto:
 
 ![diagrama de clases](https://user-images.githubusercontent.com/49279007/59578134-6bce1580-908c-11e9-8179-839dbf3e7206.PNG)
 
+## Universo del discurso diagrama de clases y ER
+
+Se necita una página web en la cual se pueda comprar de manera virtual video juegos, la página es controlada por un administrador el cual puede agregar o quitar productos, puede modificar el valor de los productos y algunas más actividades que son descritas en las reglas de negocio.
+
+Hay un sistema de manejo de usuarios los cuales pueden acceder a la página y comprar los videojuegos, cada usuario debe logearse en la página para poder generar una compra, una compra está compuesta por un pedido el cual se especifica las productos y su cantidad, los pagos se pueden efectuar vía tarjeta de crédito y otros métodos de pagos electronicos
+
+
+
 ## MODELO ENTIDAD RELACION
 ![mer](https://user-images.githubusercontent.com/49279007/59578149-78526e00-908c-11e9-91ff-0844f064da64.PNG)
 
