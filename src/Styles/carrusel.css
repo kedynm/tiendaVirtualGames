@@ -1,0 +1,10 @@
+.carrusel{
+  
+ position: relative;
+ justify-content: center;
+  padding-left: 250px;
+  padding-right: 250px;
+   /*
+     box-shadow: 2px 2px 10px #666;*/
+     
+}

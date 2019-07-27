@@ -1,0 +1,20 @@
+
+.footer{
+  position: relative;
+  margin-top: 20px;
+  bottom: 0;
+  background: black;
+ }
+
+.footer-copyright {
+display: block;
+  color: rgba(255, 255, 255, 0.8);
+  background: black;
+  text-align: center;
+  margin: auto;
+  
+}
+
+.icono{
+  margin: auto;
+}
